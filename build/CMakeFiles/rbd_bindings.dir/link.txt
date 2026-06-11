@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -flto -shared  -o rbd_bindings.cpython-310-x86_64-linux-gnu.so CMakeFiles/rbd_bindings.dir/src/python_bindings.cpp.o  librbd_library.a -lpthread 

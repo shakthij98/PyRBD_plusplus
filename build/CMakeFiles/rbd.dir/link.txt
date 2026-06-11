@@ -1,0 +1,1 @@
+/usr/bin/c++  -pg CMakeFiles/rbd.dir/src/rbd.cpp.o -o rbd  librbd_library.a -lpthread 

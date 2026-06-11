@@ -1,0 +1,2 @@
+/usr/bin/ar qc librbd_library.a CMakeFiles/rbd_library.dir/src/rbd.cpp.o
+/usr/bin/ranlib librbd_library.a
